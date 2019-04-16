@@ -14,7 +14,7 @@ function johnLennonFacts(facts) {
       beatlesArray.push(`${facts[i]}!!!`)
       i++;
   }
-  return factsArray
+  return beatlesArray
 }
 
 function iLoveTheBeatles(num) {
