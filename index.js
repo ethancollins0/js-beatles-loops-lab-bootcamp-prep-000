@@ -21,5 +21,6 @@ function iLoveTheBeatles(num) {
   beatlesArray = []
   do {
     beatlesArray.push("I love the Beatles!")
+    num++
   } while ();
 }
